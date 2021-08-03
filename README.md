@@ -23,18 +23,9 @@
 Seu desafio é criar um [web scraping](https://pt.wikipedia.org/wiki/Coleta_de_dados_web) para consultar um cep no site dos correios
 
 # Tecnologias: 
-A que você quiser :)
-Porém, se estiver indecisx, pode usar uma dessas sugestões:
-- Javascript
-  - [jsdom](https://www.npmjs.com/package/jsdom)
-  - [cheerio](https://www.npmjs.com/package/cheerio)
-  - [puppeteer](https://www.npmjs.com/package/puppeteer)
-  - [playwright](https://github.com/microsoft/playwright)
+Tecnologias usadas
 - Python
-  - [request](https://requests.readthedocs.io/en/master/)
-  - [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
   - [selenium](https://selenium-python.readthedocs.io/)
-  - [scrapy](https://docs.scrapy.org/en/latest/)
 
 # Por onde começar:
 1 - Use esse template ou baixe esse repositório com o código inicial  
